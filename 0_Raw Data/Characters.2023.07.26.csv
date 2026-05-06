@@ -1,0 +1,80 @@
+﻿Genus,Species,Notes,CURRENTLY.IN.DATASET,USE.FOR.EVO.RATES,Total.FibersL,Total.FibersR,Carapace.Width.mm,NFibers.X,NFibers.Y,ICS.placement,Function,Locality,Sex,ID,Folder,Suborder,Infraorder,Superfamily,Family (one for each),Figure,InPhylogeny
+Alaranea,merina,,X,X,7,6,0.5985,2,6,2,,Madagascar,female,CASENT9030445,20190426_020324_Alaranea_CASENT9030445_F_10X_20KeV_z80,Opisthothelae,Araneomorphae,Araneoidea,Cyatholipidae,A_mer,Matilda sp.
+Holarchaea,sp.,,,X,12,11,,,,,,New Zealand,female,CASENT9061535,20190425_153555_Holarchaea_CASENT9061535_F_10X_20keV_z80,Opisthothelae,Araneomorphae,Araneoidea,Anapidae,Hol,Anapisonahamigera144068
+Ambohima,sublima,,X,,24,,2.209,3,14,2,,,,CASENT9024826,CT1900014_Ambohima_sublima_F_CASENT9024826_IKI_diamond_rescan,Opisthothelae,Araneomorphae,Tibial Apophysis Clade,Phyxelididae,A_sub,"*Cybaeodamus taim (different family, one node up)"
+Aotearoa,magna,,X,X,NA,NA,1.054,5,29,3,,New Zealand,female,CASENT 9028269,20130713_112628_Aotearoa_magna_F_9028269_IKI_,Opisthothelae,Araneomorphae,Palpimanoidea,Mecysmaucheniidae,A_mag,Mecysmauchenius sp.
+Aphonopelma,seemanni,,X,X,224,239,17.93,13,49,0,,,female,USNMENT01580052,Aphonopelma2_USNMENT01580052_F_IKI,Opisthothelae,Mygalomorphae,Mygalomorphae,Theraphosidae,A_see,Exact Match
+Archaeidae,,,,,,,,,,,,,,,,,,,,,Austrarchaea
+Araneus,marmoreus,,X,X,20,24,4.026,3,12,2,,United States of America,female,USNMENT01539267,Araneus_marmoreus_USNMENT01539267,Opisthothelae,Araneomorphae,Araneoidea,Araneidae,A_mar,Exact Match
+Archoleptoneta,sp.,,X,,7,8,0.523,2,4,2,,,female,CASENT9034647,20190425_183610_Archoleptoneta_CASENT9034647_F_10X_20keV_z80_c,Opisthothelae,Araneomorphae,Leptonetidae&Austrochiloidea,Archoleptonetidae,Arc,Exact Match
+Arkys,sp.,,X,X,39,36,2.506,4,16,2,,Australia,female,GH1102,Arkys_sp_GH1102,Opisthothelae,Araneomorphae,Araneoidea,Arkyidae,Ark,Exact Match
+Izithunzi,capense,Muscle unclear,,,,,,,,2,,,,CASENT9043287,,Opisthothelae,Araneomorphae,N/A,N/A,I_cap,Drymusa sp.
+Australomimetus,sp.,,X,X,14,14,1.496,2,12,2,,New Zealand,female,USNMENT01539129,Australomimetus_sp_USNMENT01539129,Opisthothelae,Araneomorphae,Araneoidea,Mimetidae,Aus,Exact Match
+Calileptoneta,sp.,,X,,5,6,0.7579,2,8,2,,,,CASENT9034645,20190502_125529_Calileptoneta_CASENT9034645_F_10X_20KV_z75 or 20190426_003538_Calileptoneta_CASENT9034645_F_10X_20KeV_z80_b,Opisthothelae,Araneomorphae,Leptonetidae&Austrochiloidea,Leptonetidae,Cal,Exact Match
+Castianeira,longipalpa,,X,,32,,2.47,3,17,2,,,,USNMENT01458572,CT1900014_Castianeira_longipalpa_F_USNMENT01458572_IKI_diamond,Opisthothelae,Araneomorphae,RTA Clade,Corinnidae,C_lon,Nyssus sp.
+Conculus,sp.,,,,,,,,,,,,,USNMENT01377540,20190502_193903_Conoculus_USNMENT01377540_F_4X_20KV_z75,Opisthothelae,Araneomorphae,Araneoidea,Anapidae,Con,Anapis sp. GH2392
+Cheiracanthium,ashleyi,,X,X,14,16,1.364,2,10,2,,Madagascar,female,CASENT9010839,20190430_212938_Cheiracanthium_CASENT9010839_F_20kV_4X_z70,Opisthothelae,Araneomorphae,RTA Clade,Cheiracanthiidae,C_ash,Karaops
+Chilenodes,australis,,X,X,6,5,0.9337,2,5,2,,Chile,female,CASENT9027563,20190426_072538_Chilenodes_CASENT9027563_F_4X_20KeV_z80,Opisthothelae,Araneomorphae,Araneoidea,Malkaridae,C_aus,Malkara
+Cycloctenus,westlandicus,Fibers stuck together? Go to very top and estimate #,X,,NA,NA,5.065,5,29,2,,,,USNMENT01580032,Cycloctenidae_USNMENT01580032_F_IKI,Opisthothelae,Araneomorphae,RTA Clade,Cyclotenidae,C_wes,Cycloctenus
+Asianopis,sp.,,X,,32,33,3.355,6,24,3,,,,CASENT9024759,Deinopidae_F_CAS9024759_7.78um,Opisthothelae,Araneomorphae,UDOH grade,Deinopidae,Asi,Deinopis sp
+DiplocephalusM,latifrons,,,,,,,,,,,Denmark,male and female,USNMENT01580651,Do not use. Use female instead.,Opisthothelae,Araneomorphae,Araneoidea,Linyphiidae,D_lat,no
+Dictyna,brevitarsus,,X,X,20,19,0.8663,2,12,2,,United States of America,female,USNMENT01458808,20190426_023443_Dictyna_USNMENT01458808_F_4X_20KeV_z80,Opisthothelae,Araneomorphae,RTA Clade,Dictynidae,D_bre,Dictynasancta139202
+Diplocephalus,sp.,,X,X,13,10,0.6138,3,7,2,,,,GWUvoucher,20190430_104803_Diplocephalus_GWUvoucher_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Araneoidea,Linyphiidae,Dip,Neomaso
+Dolichognatha,sp.,,X,X,9,8,1.066,2,5,2,,Uganda,female,CASENT9034615,20190430_193948_Dolichognatha_CASENT9034615_F_20kV_4X_z70_c,Opisthothelae,Araneomorphae,Araneoidea,Tetragnathidae,Dol,Exact Match
+Dolomedes,tenebrosus,,X,,24,23,9.281,4,12,2,,,,USNMENT01539355,Dolomedes_tenebrosus_USNM1539355_FIKI,Opisthothelae,Araneomorphae,RTA Clade,Pisauridae,D_ten,Exact Match
+Dysdera,crocata,,X,X,92,NA,3.594,5,26,0,,United States of America,female,CASENT9052366,Dysdera_crocata_CASENT9052366,Opisthothelae,Araneomorphae,Synspermiata,Dysderidae,D_cro,Exact Match
+Eriauchenus,workmani,,X,,12,,1.136,2,11,3,,,,CASENT9028423,CT1900014_Eriauchenius_workmani_F_CASENT9028423_IKI_diamond,Opisthothelae,Araneomorphae,Palpimanoidea,Archaeidae,E_wor,Austrarchaea sp.
+Gallieniella,betroka,,X,,23,24,1.746,2,12,2,,Madagascar,Male,CASENT9021649,Gallieniellidae_M_CASENT9021649_75EtOH_IKI_3,Opisthothelae,Araneomorphae,RTA Clade,Gallieniellidae,G_bet,Liocranidae
+Gradungula,sorenseni,,X,X,81,76,3.993,6,28,0,,New Zealand,female,USNMENT01539356,Gradungulidae_sp_USNMENT01539356,Opisthothelae,Araneomorphae,Leptonetidae&Austrochiloidea,Gradungulidae,G_sor,Gradungula sorenseni
+Hersilia,sp.,,X,,8,9,1.466,3,5,2,,,,CASENT9001205,20190502_190826_Hersiliid_CASENT9001205_F_4X_20KV_z75,Opisthothelae,Araneomorphae,UDOH grade,Hersiliidae,Her,Hersilia
+Hickmania,troglodytes,,X,,25,24,4.625,4,22,2,,,,CAS9020543,Hickmania_F_CAS9020543_7.78um,Opisthothelae,Araneomorphae,Leptonetidae&Austrochiloidea,Austrochilidae,H_tro,Exact Match
+Huttoniidae,,,,,,,,,,,,,,,,,,,,,Huttonia
+Hyptiotes,cavatus,,X,,4,5,1.288,1,4,2,,,,USNMENT01458813,20190426_081843_Hyptiotes_USNMENT01458813_F_4X_20KeV_z80,Opisthothelae,Araneomorphae,UDOH grade,Uloboridae,H_cav,Philoponella
+Hogna,carolinensis,,X,X,28,28,9.12,4,16,2,,United States of America,female,Denver 29071,Hogna_carolinensis_F_DMNS2A29071,Opisthothelae,Araneomorphae,RTA Clade,Lycosidae,H_car,Lycosa sp.
+Kukulcania,hibernalis,,X,X,8,7,4.444,4,3,1,,United States,female,USNMENT01458829,Kukulcania_hibernalis_F_USNMENT01458829_scan2,Opisthothelae,Araneomorphae,H&F,Filistatidae,K_hib,Exact Match
+Latrodectus,geometricus,,X,X,6,5,3.029,2,5,2,,United States of America,female,USNMENT01539206,Latrodectus_geometricus_USNMENT01539206,Opisthothelae,Araneomorphae,Araneoidea,Theridiidae,L_geo,Exact Match
+Liphistius,malayanus,,X,X,308,NA,14.03,14,32,0,,Malaysia,female,SMF64093,Liphistius_malayanus_F_SMF64093_scan2,Mesothelae,,Mygalomorphae,Liphistiidae,L_mal,Exact Match
+Micrathena,gracilis,,,,,,2.284,,,,,,,,Micrathena_F_USNMENT01580597_IKI or Micrathena_F_USNMENT01580598_bouins2,Opisthothelae,Araneomorphae,Araneoidea,Araneidae,M_gra,Exact Match
+Mysmenidae,sp.,,,X,,,,,,,,South Africa,female,CASENT9042298,20190425_194516_Mysmenidae_CASENT9042298_F_10X_20keV_z80,Opisthothelae,Araneomorphae,Araneoidea,Mysmenidae,Mys,Mysmenidae143248
+Nanarchaea,sp.,,,,,,,,,,,,,,20190430_094204_Nanarchaea_CASENT9064467_F_10X_20KV_70dist,Opisthothelae,Araneomorphae,Araneoidea,Malkaridae,Nan,no
+Nesticus,sylvestrii,,X,X,7,9,0.9585,2,7,2,,United States of America,female,CASENT9034644,20190430_151446_Nesticus_CASENT9034644_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Araneoidea,Nesticidae,N_syl,Exact Match
+Litodamus,sp.,,X,X,20,21,2.198,3,12,2,,Australia,female,CASENT9022973,Nicodamidae_sp_CASENT9022973,Opisthothelae,Araneomorphae,Nicodamoidea,Nicodamidae,Lit,Exact Match
+Novanapis,spinipes,,X,X,7,8,0.5163,1,7,2,,New Zealand,female,CASENT9034646,20190425_213745_Anapid_Novanapis_CASENT9034646_F_10X_20keV_z80,Opisthothelae,Araneomorphae,Araneoidea,Anapidae,N_spi,Exact Match
+Ochyroceratidae,sp.,,X,,10,8,0.7391,2,6,2,,,,CASENT9047504,20190425_175550_Ochyroceratidae_CASENT9047504_F_10X_20keV_z80_c,Opisthothelae,Araneomorphae,Synspermiata,Ochyroceratidae,Och,Ochyrocera
+Oecobius,navus,,,X,,,,,,,,United States of America,female,CASENT9068220,20190426_055353_Oecobius_CASENT9050675_F_4X_20KeV_z80 or 20190430_191332_Oecobius_CASENT9068220_F_20kV_10X_z70,Opisthothelae,Araneomorphae,UDOH grade,Oecobiidae,O_nav,OecobiusNavus
+Ommatauxesis,sp.,,X,,6,5,1.069,2,6,2,,,,CASENT9024502,20190430_205545_Ommatauxisis_CASENT9024502_F_20kV_4X_z70,Opisthothelae,Araneomorphae,RTA Clade,Toxopidae,Omm,CicurinaTravisae
+Opopaea,sp.,,X,X,9,8,0.6731,2,6,2,,Madagascar,female,"CASENT9038442, PBI_OON00036113",20190502_115321_Opopea_PBIOON00036113_F_10X_20KV_z75,Opisthothelae,Araneomorphae,Synspermiata,Oonopidae,Opo,Exact Match
+Orchestina,sp.,,X,,4,4,0.4976,2,3,2,,,,PBIOON00035808,20190425_123822_Orchestina_PBIOON00035808_F_10X_20keV or 20190430_113901_Orchestina_PBIOON00035808_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Synspermiata,Oonopidae,Orc,Orchestina
+Wiltonia,sp.,,X,,19,22,0.8527,3,11,2,,,,USNMENT01458809,20190430_154139_Orsolobidae_USNMENT01458809_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Synspermiata,Orsolobidae,Wil,Exact Match
+Orthonops,sp.,,X,,NA,,1.022,5,22,2,,,,CASENT9034616,CT1900014_Orthonops_F_CASENT9034616_IKI,Opisthothelae,Araneomorphae,Synspermiata,Caponiidae,Ort,Calponia harrisonfordi
+Pahoroides,sp.,,,X,,,,,,,,New Zealand,female,CASENT9062579,20190430_102115_Pahoroides_CASENT9062579_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Araneoidea,Physoglenidae,Pah,Physoglenes
+Palpimanidae,,,,,,,,,,,,,,CASENT9042387,,,,,,,Palpimanus
+Palpimanus,sp,,X,,78,,2.246,5,20,3,,,,CASENT9042387,CT1900014_Palpimanus_sp_F_CASENT9042387_carapace_redo_IKI_diamond,Opisthothelae,Araneomorphae,Palpimanoidea,Palpimanidae,Pal,Palpimanus
+Pararchaea,alba,,X,X,NA,,0.4684,3,6,3,,New Zealand,female,CASENT9034335,Pararchaea_alba_CASENT9034320_F_IKI,Opisthothelae,Araneomorphae,Araneoidea,Malkaridae,P_alb,Exact Match
+Paravulsor,pulcher,,,,,,,,,,,,,,Paravulsor_pulcher_F_USNMENT01458361_75EtOH_IKI_scan 3,Opisthothelae,Araneomorphae,RTA Clade,Xenoctenidae,P_pul,Odo
+Patu,jidanweishi,,,X,,,,,,,,China,female,CASENT9029296,20190425_201742_Symphyt_Patu_CASENT9029296_F_10X_20keV_z80,Opisthothelae,Araneomorphae,Araneoidea,Symphytognathidae,P_jid,Patu144083
+Periegops,sp.,,X,,35,32,2.542,4,12,2,,,Female,CASENT9042618,Periegops_F_CASENT9042618_75EtOH_IKI,Opisthothelae,Araneomorphae,Synspermiata,Periegopidae,Per,Exact Match
+Phonognatha,graeffei,,,X,,,,,,,,Australia,female,USNMENT01580564,phonognatha micro ct,Opisthothelae,Araneomorphae,Araneoidea,Araneidae,P_gra,Exact Match
+Phrurotimpus,sp.,,X,,6,7,0.9636,2,6,2,,,,USNMENT01458818,20190426_075454_Phrurotimpus_USNMENT01458818_F_4X_20KeV_z80,Opisthothelae,Araneomorphae,RTA Clade,Phrurolithidae,Phr,Trachelas
+Pimoa,laurae,,X,X,6,6,2.187,2,5,2,,United States of America,female,USNMENT01539499,Pimoa_laurae_USNMENT01539499_F_IKI,Opisthothelae,Araneomorphae,Araneoidea,Pimoidae,P_lau,Exact Match
+Plato,bruneti,,X,,11,9,1.122,3,6,2,,,,USNMENT01458823,20190502_100604_Plato_USNMENT01458823_F_10X_20KV_z75,Opisthothelae,Araneomorphae,Araneoidea,Theridiosomatidae,P_bru,Epeirotypuschavarria144611
+Platyoides,venturus,,X,X,45,,1.958,3,18,0,,Madagascar,female,CASENT9012020,20190430_200606_Platyoides_CASENT9012020_F_20kV_4X_z70_top and 20190430_202754_Platyoides_CASENT9012020_F_20kV_4X_z70_bottom,Opisthothelae,Araneomorphae,RTA Clade,Trochanteriidae,P_ven,Molycria
+Plectreurys,sp.,,X,X,5,6,3.336,1,5,1,,United States of America,female,USNMENT01539332,Plectreurys_sp_USNMENT01539302_F_IKI or Plectreurys_sp_USNMENT01539332_IKI_F,Opisthothelae,Araneomorphae,Synspermiata,Plectreuridae,Ple,Plectreurys140894
+Salticus,sp.,no ic muscle to be seen,,X,,,,,,,,United States of America,male,CASENT9034621,salticus_all,Opisthothelae,Araneomorphae,RTA Clade,Salticidae,Sal,no
+Schizocosa,ocreata,,X,,19,17,3.21,2,12,2,,,,USNMENT01377532,Schizocosa_F_USNMENT01377532_75EtOH_IKI,Opisthothelae,Araneomorphae,RTA Clade,Lycosidae,S_ocr,Exact Match
+Scytodes,socialis,,X,X,NA,NA,1.77,6,35,3,,Madagascar,female,CASENT9034622,scytodes__CASENT9034622_F_top_and_bottom,Opisthothelae,Araneomorphae,Synspermiata,Scytodidae,S_soc,Exact Match
+Sphodros,sp.,,X,,66,NA,3.829,6,21,2,,,,CASENT9034620,Sphodros_sp_CASENT9034620,Mygalomorphae,,Mygalomorphae,Atypidae,Sph,Exact Match
+Stegodyphus,sp.,,X,X,46,40,2.976,4,19,2,,Madagascar,female,CASENT9000948,Stegodyphus_sp_CASENT9000948,Opisthothelae,Araneomorphae,Eresidae,Eresidae,Ste,Exact Match
+Symphytognathid,sp.,,,,,,,,,,,,,,20190502_132503_Symphytognathid_CASENT9065656_F_10X_20KV_z75,Opisthothelae,Araneomorphae,Araneoidea,Symphytognathidae,Sym,AnapistulaGH2596
+Synaphris,schlingeri,,,X,,,,,,,,Madagascar,female,CASENT9000318,20190426_013214_Synaphris_CASENT9000318_F_10X_20KeV_z80,Opisthothelae,Araneomorphae,Araneoidea,Synaphridae,S_sch,no
+Synotaxus,sp.,,,X,,,,,,,,Peru,female,CASENT9021337,20190430_144725_Synotaxus_CASENT9021337_F_10X_20KV_z70,Opisthothelae,Araneomorphae,Araneoidea,Synotaxidae,Syn,Exact Match
+Usofila,sp.,,X,X,1,1,0.5237,1,1,2,,,,CASENT9082407,20190425_190951_Tellemidae_CASENT9082407_F_10X_20keV_z80,Opisthothelae,Araneomorphae,Synspermiata,Tellemidae,Tel,Telema
+Tetrablemma,sp.,No ICS? Looks like ICM attaches to anterior part of base?,,,,,,,,,,,,CASENT9012054,20190425_172233_Tetrablemma_CASENT9012054_F_10X_20keV_z80_c,Opisthothelae,Araneomorphae,Synspermiata,Tetrablemmidae,Tet,Singaporemma
+Tetragnatha,versicolor,,,,,,,,,,,,,,Tetragnatha_versicolor_F_CASENT9081591_75etoh_IKI_2,Opisthothelae,Araneomorphae,Araneoidea,Tetragnathidae,T_ver,Exact Match
+Thelechoris,rutenbergi,,X,,24,,5.696,3,11,2,,,,CASENT9016723,CT1900014_Dipluridae_sp_F_CASENT9016723_IKI_diamond,Mygalomorphae,,Mygalomorphae,Ischnothelidae,T_rut,"Microhexura montivaga (this is a different family, one node up)"
+Theridiosoma,gemmosum,,X,X,6,5,0.7575,2,6,2,,United States of America,female,USNMENT01458819,20190426_010305_Theridiosoma_USNMENT01458819_F_10X_20KeV_z80,Opisthothelae,Araneomorphae,Araneoidea,Theridiosomatidae,T_gem,Exact Match
+Tigrosa,georgicola,,,,,,,,,,,,,,Tigrosa_georgicola_F_USNMENT01458298_Bouin's_75EtOH_IKI,Opisthothelae,Araneomorphae,RTA Clade,Lycosidae,T_geo,Tigrosa
+Trachelas,tranquillus,,X,,25,,2.547,3,13,2,,,,USNMENT01458438,CT1900014_Trachelas_tranquillus_F_USNMENT01458438_IKI_diamond,Opisthothelae,Araneomorphae,RTA Clade,Trachelidae,T_tra,Sergiolus
+Uloborus,sp.,,X,X,4,3,1.156,2,3,2,,United States of America,female,CASENT9082407,20190430_215645_Uloborus_CASENT9012472_F_20kV_4X_z70,Opisthothelae,Araneomorphae,UDOH grade,Uloboridae,Ulo,Exact Match
+Xenoctenus,marmoratus,,,,,,,,,,,,,,Xenoctenus_marmoratus_F_USNMENT01458297_75EtOH_IKI,Opisthothelae,Araneomorphae,RTA Clade,Xenoctenidae,X_mar,no
+Xysticus,elegans,,X,,27,25,4.175,4,13,2,,,,USNMENT00880250,Xysticus_elegans_USNMENT00880250_F_IKI,Opisthothelae,Araneomorphae,RTA Clade,Thomisidae,X_ele,Xysticus

@@ -1,0 +1,8 @@
+# Markups fiducial file version = 5.0
+# CoordinateSystem = LPS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-0.08999424427747726,1.6375980377197266,2.820345401763916,0,0,0,1,1,1,0,Hogna_carolinensis_Homologous-1,,,2,0
+2,-0.14099717140197754,1.5696192979812622,2.822627544403076,0,0,0,1,1,1,0,Hogna_carolinensis_Homologous-2,,,2,0
+3,-0.0944165587425232,1.6603496074676514,2.7457830905914307,0,0,0,1,1,1,0,Hogna_carolinensis_Homologous-3,,,2,0
+4,-0.16247455775737762,1.5717016458511353,2.756406784057617,0,0,0,1,1,1,0,Hogna_carolinensis_Homologous-4,,,2,0
+5,0.024083197116851807,1.5453890562057495,3.3446667194366455,0,0,0,1,1,1,0,Hogna_carolinensis_Homologous-5,,,2,0

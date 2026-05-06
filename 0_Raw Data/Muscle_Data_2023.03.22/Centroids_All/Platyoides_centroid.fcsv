@@ -1,0 +1,4 @@
+# Markups fiducial file version = 5.0
+# CoordinateSystem = LPS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-0.03781297866074012,-0.1564413226257803,0.007448193151503801,0,0,0,1,1,1,0,Platyoides_venturus_origin-1,,vtkMRMLScalarVolumeNode2,2,0

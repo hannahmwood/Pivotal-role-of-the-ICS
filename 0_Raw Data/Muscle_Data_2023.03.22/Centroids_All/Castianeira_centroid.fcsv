@@ -1,0 +1,4 @@
+# Markups fiducial file version = 5.0
+# CoordinateSystem = LPS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+2,0.20623476972123447,-0.8919017108065848,0.2275499460105599,0,0,0,1,1,1,0,Castianeira_longipalpa_centroid-2,,,2,0

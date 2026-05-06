@@ -1,0 +1,8 @@
+# Markups fiducial file version = 5.0
+# CoordinateSystem = LPS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-1.2620905637741089,-3.0827925205230713,4.535179138183594,0,0,0,1,1,1,0,Liphistius_malayanus_Homologous-1,,,2,0
+2,-0.7777782082557678,-3.073939561843872,4.5385026931762695,0,0,0,1,1,1,0,Liphistius_malayanus_Homologous-2,,,2,0
+3,-1.026715636253357,-2.523907423019409,2.9717788696289062,0,0,0,1,1,1,0,Liphistius_malayanus_Homologous-3,,,2,0
+4,-0.7545182704925537,-2.530014991760254,2.9844791889190674,0,0,0,1,1,1,0,Liphistius_malayanus_Homologous-4,,,2,0
+5,-1.0287641286849976,-3.7860279083251953,5.121036052703857,0,0,0,1,1,1,0,Liphistius_malayanus_Homologous-5,,,2,0
